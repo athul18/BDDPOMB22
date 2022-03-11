@@ -20,7 +20,7 @@ public class OpenCartStepDef extends TestBase {
 	SearchResultsPage resultPage;
 	
 	@Given("User is on Home page")
-	public void user_is_on_home_page() {
+	public void user_i_on_home_page() {
 	 initialize();
 	   }
 	
